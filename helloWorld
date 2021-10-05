@@ -1,0 +1,85 @@
+java
+public static void main(String args[])
+    {
+        System.out.println("Hola Mundo");
+    }
+}
+
+Bash
+
+echo "Hola Mundo"
+
+
+Basic
+
+PRINT "Hello, world!"
+
+
+C
+
+#include <stdio.h>
+int main(void) {
+puts ("Hola Mundo!");
+}
+
+
+C++
+
+#include <iostream>
+using namespace std;
+int main() {
+ std::cout << "Hola Mundo!";
+ return 0;
+}
+
+
+Delphi
+
+program HolaMundo;
+begin
+ Writeln('Hola Mundo!');
+end.
+
+
+Icon
+
+procedure main () 
+    write ( "Hola Mundo" );
+end
+
+
+Julia
+
+println("Hello world!")
+
+
+Objetive-C
+
+#import <Foundation/Foundation.h>
+int main(void)
+{
+ NSLog(@"Hola Mundo!");
+ return 0;
+}
+
+
+Pascal
+
+program HelloWorld;
+begin
+ WriteLn('Hola Mundo!');
+end.
+
+
+R
+
+cat('Hola Mundo!')
+
+
+Visual Basic .NET
+
+Module Module1
+ Sub Main()
+ Console.WriteLine("Hola Mundo!")
+End Sub
+End Module
